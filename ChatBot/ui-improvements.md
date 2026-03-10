@@ -42,6 +42,8 @@ The desktop interface keeps the **tabular structure** for easy scanning and edit
 |---|---|
 | ![Current Desktop](images/current-desktop.png) | ![New Desktop](images/new-desktop.png) |
 
+Figma link : https://www.figma.com/make/Qk2s6igdUdzgxpWwrGoVJQ/Design-2?t=mtC8zblw3Bnosdea-1
+
 ---
 
 ## Desktop Improvements
@@ -111,9 +113,27 @@ Each question becomes a **card component**.
 
 ## Mobile UI Comparison
 
-| Current Mobile UI | Improved Mobile UI |
-|---|---|
-| ![Current Mobile](images/current-mobile.png) | ![New Mobile](images/new-mobile.png) |
+<table>
+<tr>
+<td align="center">
+
+**Current Mobile UI**
+
+<img src="images/current-mobile.png" width="300">
+
+</td>
+
+<td align="center">
+
+**New Mobile UI**
+
+<img src="images/new-mobile.png" width="300">
+
+</td>
+</tr>
+</table>
+
+Figma link : https://www.figma.com/make/Qk2s6igdUdzgxpWwrGoVJQ/Design-2?t=mtC8zblw3Bnosdea-1
 
 ---
 
