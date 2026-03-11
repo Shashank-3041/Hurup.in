@@ -35,43 +35,6 @@ The current instruction popup:
 - reduces visual focus on the game elements
 
 Example instruction:
-"# 🎮 Interactive Tutorial Redesign – Gear Quiz Game
-
-## Overview
-
-This document describes the redesign of the **instruction system** in the Gear Quiz game.
-
-Previously, the game used **large instruction popups** to explain how to play. While functional, this approach blocked the gameplay screen and required users to read multiple instructions before interacting with the game.
-
-The new system replaces static instruction popups with **interactive onboarding tutorials** that guide the player step-by-step directly on the game interface.
-
-This redesign improves:
-
-- usability
-- visual clarity
-- onboarding experience
-- player engagement
-
----
-
-# Current vs Proposed Tutorial Design
-
-## Spin Phase Tutorial
-
-| Current Instruction Popup | New Interactive Tutorial |
-|---|---|
-| <img src="images/spin-old.png" width="45%"> | <img src="images/spin-new.png" width="45%"> |
-
-### Issues with Current Design
-
-The current instruction popup:
-
-- blocks the game interface
-- contains multiple instructions at once
-- requires users to read before interacting
-- reduces visual focus on the game elements
-
-Example instruction:
 "Spin the gear using keyboard arrow keys
 or drag the gear with your cursor."
 
