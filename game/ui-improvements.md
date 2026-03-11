@@ -23,7 +23,7 @@ This redesign improves:
 
 | Current Instruction Popup | New Interactive Tutorial |
 |---|---|
-| <img src="images/spin-old.png" width="45%"> | <img src="images/spin-new.png" width="45%"> |
+| <img src="images/spin-old.png"> | <img src="images/spin-new.png"> |
 
 ### Issues with Current Design
 
