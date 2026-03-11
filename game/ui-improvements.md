@@ -149,7 +149,7 @@ Final hint: You're ready! spin the gear
 
 | Current Instruction Popup | New Interactive Tutorial |
 |---|---|
-| <img src="images/answer-old.png" width="45%"> | <img src="images/answer-new.png" width="45%"> |
+| <img src="images/answer-old.png"> | <img src="images/answer-new.png"> |
 
 ---
 
